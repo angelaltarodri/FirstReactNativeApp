@@ -1,0 +1,21 @@
+TO RE-START YOUR ANDROID DEVICE
+  GO TO ANDROID STUDIO AND RE START A NEW DEVICE
+
+npm add prop-types
+
+REACT NAVIGATION
+  npm install @react-navigation/native
+  npx expo install react-native-screens react-native-safe-area-context
+  npm install @react-navigation/native-stack
+  npm install @react-navigation/bottom-tabs
+  npm install @react-navigation/drawer
+
+rnf
+
+NAVIGATION STACK sale distinto a la clase porque todo se ha actualizado
+
+//              npm install react-native-gesture-handler react-native-reanimated
+
+para solucionar el tema con el Drawer,
+debemos añadir en babel.config.js
+  plugins: ['react-native-reanimated/plugin']
